@@ -197,31 +197,5 @@ namespace ImageRounded
             return rectPath;
         }
 
-
-        /// <summary>
-        /// 图片缩放
-        /// </summary>
-        /// <param name="b">源图片Bitmap</param>
-        /// <param name="dstWidth">目标宽度</param>
-        /// <param name="dstHeight">目标高度</param>
-        /// <returns>处理完成的图片 Bitmap</returns>
-        public static Bitmap ResizeBitmap(Bitmap b, int dstWidth, int dstHeight)
-        {
-            Bitmap dstImage = new Bitmap(dstWidth, dstHeight);
-            System.Drawing.Graphics g = System.Drawing.Graphics.FromImage(dstImage);
-            //   设置插值模式 
-            g.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.Bilinear;
-            //   设置平滑模式 
-            g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
-            g.SmoothingMode = SmoothingMode.HighQuality;
-            g.InterpolationMode = InterpolationMode.HighQualityBicubic;
-            //用Graphic的DrawImage方法通过设置大小绘制新的图片实现缩放
-            g.DrawImage(b, new Rectangle(0, 0, dstImage.Width, dstImage.Height), new Rectangle(0, 0, b.Width, b.Height), GraphicsUnit.Pixel);
-            g.Save();
-            g.Dispose();
-            return dstImage;
-        }
-
-
     }
 }
