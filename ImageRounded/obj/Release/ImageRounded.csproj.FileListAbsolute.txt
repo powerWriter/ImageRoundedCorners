@@ -1,0 +1,14 @@
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\bin\Release\ImageRounded.exe
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\bin\Release\ImageRounded.pdb
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\MainWindow.g.cs
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\App.g.cs
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded_MarkupCompile.cache
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded_MarkupCompile.lref
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\MainWindow.baml
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.g.resources
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.Properties.Resources.resources
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.csproj.GenerateResource.Cache
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.csproj.CoreCompileInputs.cache
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.exe
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.pdb
+E:\0-code_repository[代码库]\ImageRoundedCorners\ImageRounded\obj\Release\ImageRounded.csprojResolveAssemblyReference.cache
