@@ -3,4 +3,4 @@
 <br>2、圆角的背景可以选择透明和白色两种
 <br>3、可以自定义圆角的尺寸，已像素为单位
 <br>4、实现思路如图：
-<br>
+<br><img src="https://github.com/powerWriter/ImageRoundedCorners/blob/master/thinking.png" width="600" height="650" alt="图片加载失败时，显示这段字"/>
